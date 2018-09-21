@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class home {
+public class home {//почему-то гит этот файл всерьёз не воспринимает
 
     public static void main(String[] args) {
         {
